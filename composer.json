@@ -1,0 +1,19 @@
+{
+    "name": "robust/contact",
+    "description": "This is simple package for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AlishaGaha",
+            "email": "gahaalisha13@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Robust\\Contact\\": "src/"
+        }
+    },
+}
